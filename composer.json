@@ -58,7 +58,8 @@
         "schmunk42/database-command":"0.8.*",
         "schmunk42/giic":"@dev",
         "thomaspark/bootswatch":"2.3.*",
-        "twitter/bootstrap":"2.3.*"
+        "twitter/bootstrap":"2.3.*",
+        "codeception/codeception": "1.6.*@dev"
     },
     "autoload":{
         "psr-0":{
